@@ -1,0 +1,33 @@
+name, id, projected_points, cost
+Peyton Manning ,1,23.04,10000 
+Andrew Luck ,2,22.86,10100 
+Russell Wilson ,3,22.26,8600 
+Tom Brady ,4,21.13,9000 
+Colin Kaepernick ,5,20.77,7800 
+Joe Flacco ,6,18.96,7300 
+Ben Roethlisberger ,7,18.69,8000 
+Philip Rivers ,8,18.93,8800 
+Alex Smith ,9,18.77,7100 
+Ryan Tannehill ,10,18.49,7900 
+Mike Glennon ,11,17.97,6500 
+Carson Palmer ,12,17.56,7800 
+Brian Hoyer ,13,17.41,6200 
+Austin Davis ,14,17.41,7000 
+Andy Dalton ,15,16.55,8500 
+Eli Manning ,16,15.99,7600 
+Teddy Bridgewater ,17,15.59,5900 
+Nick Foles ,18,14.61,8400 
+Blake Bortles ,19,13.82,6200 
+Ryan Fitzpatrick ,20,13.66,6400 
+Derek Carr ,21,13.41,6800 
+Robert Griffin III ,22,12.69,7200 
+Tony Romo ,23,9.76,8200 
+Michael Vick ,24,9.79,6900 
+Brandon Weeden ,25,8.25,5000 
+Johnny Manziel ,26,2.65,5500 
+Geno Smith ,27,1.06,6500 
+Luke McCown ,28,0.84,5000 
+Tarvaris Jackson ,29,0.87,5000 
+Mark Sanchez ,30,0.82,5000 
+Chase Daniel ,31,0.76,5000 
+Blaine Gabbert ,32,0.71,5000 
